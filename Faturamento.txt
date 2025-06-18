@@ -1,0 +1,68 @@
+### **1. Tipos de Faturamento**  
+O sistema Sigo possui **três categorias** de faturamento:
+
+✅ **Faturar Pedidos**  
+• Processa pedidos **aprovados no módulo comercial** que **não possuem notas fiscais parciais**.  
+• É necessário verificar e filtrar os pedidos antes de confirmar o faturamento.  
+
+✅ **Faturar Notas Parciais**  
+• Fatura **pedidos com notas fiscais parciais**, onde cada parcela gera uma nota separada.  
+• Empresas indesejadas podem ser removidas temporariamente da pesquisa.  
+
+✅ **Faturamento de Contratos**  
+• Fatura Empresas e Prestadores Parceiros conforme **regras de cobrança** predefinidas.  
+• Gera registros para atendimentos prestados, serviços realizados e cobranças per capita.  
+• **Antes de faturar**, é necessário gerar e verificar o **demonstrativo financeiro**.  
+
+---
+
+### **2. Geração e Gestão de Boletos**  
+💡 Após o faturamento, o sistema permite **gerar boletos em lote** para facilitar o envio aos clientes.  
+
+✅ **Passo a passo para gerar boletos:**  
+1. Insira o **Número do Lote** de faturamento.  
+2. Clique em **Pesquisar** para listar todas as empresas faturadas.  
+3. Escolha uma das ações:  
+   - **Imprimir Boletos** – O sistema abre os documentos para impressão.  
+   - **Salvar em PDF** – Os boletos são compactados e salvos na pasta Downloads.  
+   - **Enviar por E-mail** – O sistema envia os boletos diretamente aos clientes.  
+
+---
+
+### **3. Geração de Nota Fiscal Eletrônica (NFS-e)**  
+A emissão de **Notas Fiscais Eletrônicas (NFS-e)** está disponível para empresas que utilizam **RPS (Recibo Provisório de Serviços)**.  
+
+✅ **Passos para gerar arquivo de RPS:**  
+1. Filtre os registros por **lote de fatura, data de emissão ou número RPS**.  
+2. Clique em **Pesquisar Notas**.  
+3. Após confirmar os dados, clique em **Gerar Arquivo RPS**.  
+
+📌 **Recursos adicionais:**  
+• **Processar Retorno** – Vincula os dados da NF ao arquivo RPS.  
+• **Listar Arquivos Salvos** – Permite consultar e baixar novamente os arquivos RPS gerados.  
+
+---
+
+### **4. Consulta e Gerenciamento de Notas Fiscais Emitidas (NFS-e)**  
+Após o faturamento, o sistema permite visualizar e gerenciar **Notas Fiscais Emitidas**.  
+
+✅ **Funcionalidades:**  
+• Exibição dos **valores, impostos e detalhes do serviço**.  
+• Cancelamento de uma **NFS-e** caso necessário.  
+• Reativação da geração de **RPS**, útil em casos de erros nos dados originais.  
+
+📌 O recurso **Reativar** permite corrigir informações e gerar um novo arquivo de RPS corretamente.  
+
+---
+
+### **5. Relatórios Financeiros do Faturamento**  
+O sistema Sigo oferece **dois relatórios importantes** para gestão das cobranças:  
+
+📍 **Relatório de Cobrança de Funcionários**  
+• Apresenta os funcionários cobrados pela regra **per capita**.  
+
+📍 **Relatório de Cobrança de Procedimentos**  
+• Lista atendimentos e serviços prestados dentro do período da cobrança.  
+
+🔎 **Acesso aos relatórios:**  
+Menu **Relatórios** » **Faturamento**  

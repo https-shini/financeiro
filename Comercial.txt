@@ -1,0 +1,26 @@
+➜ Visão Geral do Módulo Comercial no Sistema O módulo Comercial é um pilar estratégico para a gestão de vendas, serviços e negociações dentro da empresa. Ele abrange desde o cadastro de prospects e tabelas de preços até o acompanhamento de pedidos e ordens de serviço, garantindo que todas as interações comerciais sejam bem estruturadas, organizadas e alinhadas com a operação financeira.
+
+1. Gestão de Relacionamento e Prospecção Comercial
+✅ Cadastro de prospects: Registro de empresas em negociação, permitindo um acompanhamento eficiente de oportunidades de negócio.
+✅ Conversão para cliente: Processo intuitivo para transformar prospects em clientes formais, garantindo a fluidez das negociações.
+✅ Cadastro de contatos comerciais: Organização das informações dos responsáveis por cada empresa prospectada, facilitando futuras interações.
+
+2. Estruturação de Preços e Condições Comerciais
+✅ Tabelas de preços: Configuração detalhada dos valores de exames, produtos e serviços, permitindo personalização conforme o perfil de cada cliente.
+✅ Parametrização comercial: Controle dos preços aplicáveis a contratos, empresas avulsas e pedidos específicos.
+✅ Revisão dinâmica: Opção de alteração rápida dos valores registrados, garantindo flexibilidade nas negociações.
+
+3. Gestão de Pedidos e Faturamento
+✅ Tipos de pedido: Definição de contratos, mensalidades, vendas avulsas e cobranças vinculadas a serviços prestados.
+✅ Emissão de notas fiscais: Processamento automatizado para recibos, faturas únicas ou múltiplas, conforme a configuração do pedido.
+✅ Condições de pagamento: Ajuste de opções à vista ou parceladas, garantindo adaptação às necessidades do cliente.
+
+4. Controle de Ordens de Serviço
+✅ Criação e acompanhamento: Registro detalhado das ordens de serviço vinculadas a pedidos comerciais.
+✅ Agendamento e execução: Planejamento de serviços, atribuição de responsáveis e monitoramento do status da execução.
+✅ Notificações automáticas: Comunicação eficaz entre cliente, equipe comercial e financeiro sobre o andamento das solicitações.
+
+5. Integração com a Gestão Financeira
+✅ Registro de cobrança e faturamento: Controle dos valores a receber e geração de relatórios financeiros.
+✅ Histórico comercial: Registro das interações, garantindo a rastreabilidade dos negócios realizados.
+✅ Automação de processos: Redução de erros manuais, otimizando o fluxo entre setores.
